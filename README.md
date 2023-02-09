@@ -11,6 +11,5 @@ I've also built a some examples that permit understand how is work Cisco Webex C
 
 |Feature|Description|Title|Notes|
 |---|---|---|---|
-| SMS&Python | Send a SMS using Code Python using Cisco Webex Connect  | 01 Cisco Webex Connect - SMS   | Send a Message SMS via Python to your Mobile Phone using Webex Connect  |
-
-| Actions after time in queue  | Perform an action such as offering a callback/SMS deflection after x number of minutes in Queue  | Cisco Cars  | Check after the queue node, music node plays for 10 seconds and then passes to an IVR menu. In this way you can play music for a set period of time and then increase a counter, perform a check, or offer a callback.   |
+| SMS&Python | Send a SMS using Code Python using Cisco Webex Connect.  | 01 Cisco Webex Connect - SMS (https://github.com/ERICK-ZABALA/01_Webex_Connect_SMS) | Send a Message SMS via Python to your Mobile Phone using Webex Connect. |
+| VideoCall&HTML&JS | Perform an Web Page to generate a video Call between end Users using Webex Connect.  | 02 Cico Webex Connect - Video Call | Perform a video call using a web page and Cisco Webex Connectoffer a callback. |
