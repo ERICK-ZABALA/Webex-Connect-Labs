@@ -12,4 +12,4 @@ I've also built a some examples that permit understand how is work Cisco Webex C
 |Feature|Description|Title|Notes|
 |---|---|---|---|
 | SMS&Python | Send a SMS using Code Python using Cisco Webex Connect.  | [01 Cisco Webex Connect - SMS](https://github.com/ERICK-ZABALA/01_Webex_Connect_SMS) | Send a Message SMS via Python to your Mobile Phone using Webex Connect. |
-| VideoCall&HTML&JS | Perform an Web Page to generate a Video Call between end Users using Webex Connect.  | 02 Cico Webex Connect - Video Call | Perform a video call using a web page in your Desktop and Mobile Phone and Cisco Webex Connect. |
+| VideoCall&HTML&JS | Perform an Web Page to generate a Video Call between end Users using Webex Connect.  | 02 Cico Webex Connect - Video Call(https://github.com/ERICK-ZABALA/02_Webex_Connect_VideoCall) | Perform a video call using a web page in your Desktop and Mobile Phone and Cisco Webex Connect. |
